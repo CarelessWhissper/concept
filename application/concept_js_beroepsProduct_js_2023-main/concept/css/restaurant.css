@@ -5,6 +5,7 @@ section {
 .title{
   display: grid;
   place-items: center;
+  color: white;
 }
 
 body{
